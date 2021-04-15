@@ -4,7 +4,7 @@ from telebot import types
 import requests
 from bs4 import BeautifulSoup as BS
 import mysql.connector
-bot = telebot.TeleBot("1462916452:AAHroTvPrk1fSfZ4b9ZEvYnxmE6fZ17Vy-M")
+bot = telebot.TeleBot(Token)
 numberOfPurse = "GCZ456AYVGZKKUXZXICMT3PZ25SGPK3GK4QA2XEB3NTZHYS3N47NKN5Q"
 
 
